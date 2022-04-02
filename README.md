@@ -6,7 +6,7 @@
 - Create an `HTML` template for a certification page. [Examples](https://www.google.com/search?q=html+certification&sxsrf=APq-WBtldQ36xE9ER75MggEvBjAlxqmbag:1648889267097&source=lnms&tbm=isch&sa=X&ved=2ahUKEwia7qeY__T2AhWJTcAKHRsPCPAQ_AUoAXoECAEQAw&biw=1720&bih=654&dpr=2).
 - Write a `Script` that takes the emails out of the `names.xlsx` and send the certification to all emails.
 
-Don't forget to add your name and email to excel sheet so you can test your code, and always check your spam folder.
+Don't forget to add your name and email to the excel sheet so you can test your code, and always check your spam folder.
 
 ### 🤼‍♂️ Date
 
