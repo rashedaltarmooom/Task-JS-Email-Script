@@ -15,9 +15,9 @@ Don't forget to add your name and email to excel sheet so you can test your code
 ### 🌶 Customize the email!
 
 - In the excel file, you will find `name`,`email`,`course` and `grade`.
-- Customize your `HTML` template to send a different email for each email in the excel sheet that shows his name, course and grade.
+- Customize your `HTML` template to send a different email for each email in the excel sheet that shows his `name`, `course` and `grade`.
 
-###💡Libraries 
+### 💡Libraries 
 
 You can use those libraries but you don't have to stick to them, use anything that works for you.
 
